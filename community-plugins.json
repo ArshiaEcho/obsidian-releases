@@ -40346,5 +40346,12 @@
     "author": "Anand Baghel",
     "description": "A scientific calculator. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "anandrajbaghel/gate-calculator"
+  },
+  {
+    "id": "granola-api-sync",
+    "name": "Granola API Sync",
+    "author": "Arshia Navabi",
+    "description": "Sync meeting notes and full transcripts from Granola into your vault using the official Granola API. Just paste an API key, no credential scraping.",
+    "repo": "ArshiaEcho/obsidian-granola-api-sync"
   }
 ]
